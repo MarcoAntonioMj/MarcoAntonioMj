@@ -1,9 +1,15 @@
 
 ### Olá!! Eu sou o Marco Antônio - Estudante de  analise e desenvolvimento de sistemas 🙏
+🔭 Graduando analise e desenvolvimento de sistemas - UNA Betim .<br/>
+📚 Atualmente aprendendo a linguagem Java.<br/>
+🔍Estou à procura de um estágio.<br/>
+📧 Contate-me no email: marcotonho38@gmail.com <br/>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcoantoniomj/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-044313236/)
 
-![MarcoAntonio GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoAntonioMj&show_icons=true&theme=cobalt)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoantonioMj&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Tecnologias que eu estudo 
 <div style="display: inline_block"><br/>
@@ -13,8 +19,6 @@
 </div><br/>
 
 Estuante apaixonado por tecnologia.
-Contato <br/>
-Email : marcotonho38@gmail.com 
 
 
 
