@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcoantoniomj/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-antonio-044313236/)
 
-![MarcoAntonio GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoAntonioMj&show_icons=true&theme=dracula)
+![MarcoAntonio GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoAntonioMj&show_icons=true&theme=cobalt)
 
 ### Tecnologias que eu estudo 
 <div style="display: inline_block"><br/>
