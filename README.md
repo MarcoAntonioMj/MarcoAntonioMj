@@ -18,7 +18,7 @@
 <img aling="center" alt="Powerbi" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </div><br/>
 
-Estuante apaixonado por tecnologia.
+Estudante apaixonado por tecnologia.
 
 
 
