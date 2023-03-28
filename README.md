@@ -1,7 +1,7 @@
 
 ### Olá!! Eu sou o Marco Antônio - Estudante de  analise e desenvolvimento de sistemas 🙏
 🔭 Graduando analise e desenvolvimento de sistemas - UNA Betim .<br/>
-📚 Atualmente aprendendo a linguagem Java.<br/>
+📚 Atualmente aprendendo a linguagem Java/Python.<br/>
 🔍Estou à procura de um estágio.<br/>
 📧 Contate-me no email: marcotonho38@gmail.com <br/>
 
@@ -16,6 +16,8 @@
 <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img aling="center" alt="Powerbi" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img aling="center" alt="Powerbi" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 </div><br/>
 
 Estudante apaixonado por tecnologia.
